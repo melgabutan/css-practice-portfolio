@@ -1,0 +1,147 @@
+a {
+  color: #11999e;
+  font-size: 1rem;
+  margin: 0 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  color: #66bfbf;
+  font-family: "Sacramento", cursive;
+  font-size: 5.625rem;
+  margin: 0;
+}
+
+h2 {
+  color: #66bfbf;
+  font-size: 2rem;
+}
+
+h3 {
+  color: #11999e;
+  text-align: left;
+}
+
+hr {
+  border: 8px dotted #d3d3d3;
+  border-bottom: none;
+  margin: 100px auto;
+  width: 3%;
+}
+
+p {
+  font-family: "Merriweather", serif;
+}
+
+.bio {
+  line-height: 2;
+  margin: auto;
+  width: 30%;
+}
+
+.bottom-cloud {
+  bottom: 40%;
+  left: 25%;
+  position: absolute;
+}
+
+.certificate-img {
+  float: right;
+  margin: 0 auto 0 20px;
+  width: 10rem;
+}
+
+.contact-btn {
+  background-color: #66bfbf;
+  border: solid #66bfbf 2px;
+  border-radius: 5px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  color: white;
+  cursor: pointer;
+  font-weight: 600;
+  padding: 0.55rem 1.5rem;
+  margin: 50px 0 0 0;
+  text-transform: uppercase;
+}
+
+.contact-description {
+  line-height: 2;
+  margin: auto;
+  width: 30%;
+}
+
+.contact-subtitle {
+  margin: 50px;
+  text-align: center;
+}
+
+.content-greeting {
+  margin: 40px;
+}
+
+.content-section {
+  padding: 100px 0;
+}
+
+.copyright-text {
+  color: white;
+  font-size: 0.75rem;
+  margin-top: 30px;
+}
+
+.footer-section {
+  background-color: #66bfbf;
+  padding: 40px 0 30px;
+}
+
+.landing-greeting {
+  position: relative;
+  top: 25%;
+}
+
+.landing-section {
+  background-color: #eaf6f6;
+  height: 100vh;
+}
+
+.mountain {
+  bottom: 0;
+  position: absolute;
+  transform: translate(-50%, 0);
+}
+
+.pro-title {
+  text-decoration: underline;
+}
+
+.skill-container {
+  margin: 100px auto;
+  width: 40%;
+}
+
+.skill-description {
+  line-height: 2;
+  text-align: left;
+}
+
+.trophy-img {
+  float: left;
+  margin: 0 20px 0 auto;
+  width: 10rem;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 25%;
+  top: 18%;
+}
